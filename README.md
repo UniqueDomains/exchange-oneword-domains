@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .EXCHANGE one-word domains still available to buy.
 
-This dataset contains 7,570 .EXCHANGE one word domains with availability, attractiveness and demand scores.
+This dataset contains 8,336 .EXCHANGE one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.EXCHANGE one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=exchange-oneword-domains&utm_content=description.top) (7,570) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
@@ -13,8 +13,8 @@ If you want to search & filters the complete database of [.EXCHANGE one word dom
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/exchange-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/exchange-oneword-domains/blob/main/exchange.csv"><b>⬇️ CSV (7.57K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/exchange-oneword-domains/blob/main/exchange.json"><b>⬇️ JSON (7.57K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/exchange-oneword-domains/blob/main/exchange.csv"><b>⬇️ CSV (8.34K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/exchange-oneword-domains/blob/main/exchange.json"><b>⬇️ JSON (8.34K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=exchange-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (7.57K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
@@ -54,8 +54,8 @@ If you want to search & filters the complete database of [.EXCHANGE one word dom
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/exchange-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
-    <a href="https://github.com/UniqueDomains/exchange-oneword-domains/blob/main/exchange.csv"><b>⬇️ CSV (7.57K domains)</b></a> •
-    <a href="https://github.com/UniqueDomains/exchange-oneword-domains/blob/main/exchange.json"><b>⬇️ JSON (7.57K domains)</b></a> • 
+    <a href="https://github.com/UniqueDomains/exchange-oneword-domains/blob/main/exchange.csv"><b>⬇️ CSV (8.34K domains)</b></a> •
+    <a href="https://github.com/UniqueDomains/exchange-oneword-domains/blob/main/exchange.json"><b>⬇️ JSON (8.34K domains)</b></a> • 
     <a href="https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=exchange-oneword-domains&utm_content=description.fulldatabase"><b>🌍 Online Database (7.57K)</b></a> • 
     <a href="https://wa.me/33601711555?text=Hi%2C%20I'm%20interested%20in%20getting%20access%20to%20the%20Unique.Domains%20API.%20Can%20you%20provide%20me%20with%20more%20information%3F"><b>💻 API</b></a>
 </p>
