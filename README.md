@@ -1,22 +1,22 @@
-# Available .EXCHANGE One-Word Domains (8,556)
+# Available .EXCHANGE One-Word Domains (10,828)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-8%2C559%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-8%2C556%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-10%2C828%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated dataset of available and resale .exchange one-word domains from Unique Domains.
+Daily-updated public extract of available and resale .exchange one-word domains from Unique Domains.
 
-> **Note:** this repository currently mirrors the full live catalog for this exact search.
-> Unique Domains counts can still change as the search refreshes.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **10,828 domains** on the canonical page below.
 
-**Public extract:** 8,559 rows · **Live catalog:** 8,556 domains
+**Public extract:** 1,000 rows · **Live catalog:** 10,828 domains
 
-**Last updated:** 2026-04-13  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/exchange`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .EXCHANGE one-word dom
 
 ### Files
 
-- `exchange.csv` — public CSV extract (8,559 rows)
-- `exchange.json` — public JSON extract (8,559 rows)
+- `exchange.csv` — public CSV extract (1,000 rows)
+- `exchange.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| jesus.exchange      | available | $10.99    | —             | 88             | 52     | 5      | name.com                                                  |
-| four.exchange       | resell    | $10.99    | $50.99        | 66             | 30     | 4      | Dynadot Inc                                               |
-| platform.exchange   | premium   | $42.90    | $42.90        | 78             | 49     | 8      | namecheap                                                 |
-| done.exchange       | available | $10.99    | $50.99        | 80             | 36     | 4      | name.com                                                  |
-| wind.exchange       | resell    | $49.98    | —             | 76             | 24     | 4      | Sav.com, LLC                                              |
-| auto.exchange       | premium   | $1,040    | $1,040        | 68             | 47     | 4      | namecheap                                                 |
-| short.exchange      | available | $10.99    | $50.99        | 76             | 36     | 5      | name.com                                                  |
-| artwork.exchange    | resell    | $49.98    | —             | 82             | 20     | 7      | Spaceship, Inc.                                           |
-| help.exchange       | premium   | $82.50    | —             | 68             | 46     | 4      | name.com                                                  |
-| goon.exchange       | available | $10.99    | $50.99        | 80             | 35     | 5      | name.com                                                  |
-| test.exchange       | resell    | —         | —             | 72             | 89     | 4      | Spaceship, Inc.                                           |
-| ask.exchange        | premium   | $42.90    | $42.90        | 80             | 45     | 3      | namecheap                                                 |
-| rank.exchange       | available | $10.99    | $50.99        | 70             | 35     | 4      | name.com                                                  |
-| universal.exchange  | resell    | —         | —             | 96             | 81     | 9      | NameCheap, Inc.                                           |
-| pop.exchange        | premium   | $42.90    | $42.90        | 82             | 43     | 3      | namecheap                                                 |
-| statistics.exchange | available | $49.98    | —             | 60             | 34     | 10     | namecheap                                                 |
-| boss.exchange       | resell    | —         | —             | 76             | 73     | 4      | Global Domains International, Inc. DBA DomainCostClub.com |
-| aaa.exchange        | premium   | $260      | $260          | 70             | 42     | 3      | namecheap                                                 |
-| chill.exchange      | available | $10.99    | $50.99        | 72             | 33     | 5      | name.com                                                  |
-| wise.exchange       | resell    | —         | —             | 98             | 72     | 4      | Dynadot Inc                                               |
+| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| shortcuts.exchange   | available | $10.99    | —             | 48             | 41     | 10     | name.com                                                  |
+| prompt.exchange      | resell    | —         | —             | 82             | 68     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
+| homes.exchange       | premium   | $82.50    | —             | 86             | 34     | 5      | name.com                                                  |
+| whynot.exchange      | available | $10.99    | —             | 74             | 39     | 7      | name.com                                                  |
+| bit.exchange         | resell    | —         | —             | 76             | 46     | 3      | Porkbun LLC                                               |
+| etc.exchange         | premium   | $82.50    | —             | 58             | 34     | 3      | name.com                                                  |
+| inspiration.exchange | available | $10.99    | —             | 88             | 30     | 11     | name.com                                                  |
+| tickets.exchange     | resell    | —         | —             | 64             | 34     | 7      | Dynadot Inc                                               |
+| partners.exchange    | premium   | $82.50    | —             | 61             | 32     | 8      | name.com                                                  |
+| spaces.exchange      | available | $10.99    | —             | 54             | 30     | 6      | name.com                                                  |
+| spectra.exchange     | resell    | —         | —             | 62             | 34     | 7      | Sav.com, LLC - 22                                         |
+| videos.exchange      | premium   | $123.75   | —             | 52             | 30     | 6      | name.com                                                  |
+| KFC.exchange         | available | $49.98    | —             | 74             | 27     | 3      | namecheap                                                 |
+| Jim.exchange         | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap                                                 |
+| bees.exchange        | available | $10.99    | —             | 54             | 27     | 4      | name.com                                                  |
+| photos.exchange      | premium   | $123.75   | —             | 54             | 28     | 6      | name.com                                                  |
+| sites.exchange       | available | $10.99    | —             | 53             | 26     | 5      | name.com                                                  |
+| products.exchange    | premium   | $123.75   | —             | 60             | 23     | 8      | name.com                                                  |
+| schools.exchange     | available | $10.99    | —             | 72             | 24     | 7      | name.com                                                  |
+| Places.exchange      | premium   | $138.60   | $138.60       | 74             | 22     | 6      | namecheap                                                 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 8,559-row public sample | 8,556 live domains                               |
+| 1,000-row public sample | 10,828 live domains                              |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
