@@ -1,10 +1,10 @@
-# Available .EXCHANGE One-Word Domains (11,405)
+# Available .EXCHANGE One-Word Domains (11,409)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C405%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C409%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .exchange one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,405 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,409 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,405 domains
+**Public extract:** 1,000 rows · **Live catalog:** 11,409 domains · **Median ask:** $17.19 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/tld/exchange`  
 **Best for:** founders, investors, studios
 
@@ -68,7 +68,7 @@ print(df.head())
 | prompt.exchange      | resell    | —         | —             | 82             | 69     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
 | partners.exchange    | premium   | $82.50    | —             | 61             | 32     | 8      | name.com                                                  |
 | inspiration.exchange | available | $10.99    | —             | 88             | 30     | 11     | name.com                                                  |
-| bit.exchange         | resell    | —         | —             | 76             | 46     | 3      | Porkbun LLC                                               |
+| bit.exchange         | resell    | —         | —             | 76             | 44     | 3      | Porkbun LLC                                               |
 | videos.exchange      | premium   | $123.75   | —             | 52             | 30     | 6      | name.com                                                  |
 | spaces.exchange      | available | $10.99    | —             | 54             | 30     | 6      | name.com                                                  |
 | tickets.exchange     | resell    | —         | —             | 64             | 34     | 7      | Dynadot Inc                                               |
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 11,405 live domains                              |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 11,409 live domains                        |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+This set focuses on one-word domains in the .exchange extension. The names range from direct commercial words like advantage.exchange and discourse.exchange to broader or more expressive terms like profound.exchange and righteous.exchange. For founders, the key question is whether the word makes the extension feel intentional and easy to remember. For investors, the main test is whether the word-extension pairing is commercially legible enough to support resale interest. The median ask is 17.19, so price alone will not separate the best options. Prioritize clean semantics, strong category fit, and low trademark friction when narrowing this selection.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- Favor words that make natural sense with .exchange
+- Check if the word is generic or trademark-sensitive
+- Use price and renewal fit as a discipline filter
+- Prefer memorable spelling over obscure vocabulary
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
