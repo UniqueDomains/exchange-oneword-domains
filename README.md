@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .exchange one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 11,412 domains · **Median ask:** $17.19 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-17  
+**Last updated:** 2026-05-27  
 **Canonical page:** `https://unique.domains/domains/tld/exchange`  
 **Best for:** founders, investors, studios
 
@@ -66,24 +66,24 @@ print(df.head())
 | -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
 | shortcuts.exchange   | available | $10.99    | —             | 48             | 41     | 10     | name.com                                                  |
 | prompt.exchange      | resell    | —         | —             | 82             | 69     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| partners.exchange    | premium   | $82.50    | —             | 61             | 32     | 8      | name.com                                                  |
-| inspiration.exchange | available | $10.99    | —             | 88             | 30     | 11     | name.com                                                  |
+| partners.exchange    | premium   | $82.50    | —             | 61             | 31     | 8      | name.com                                                  |
+| spaces.exchange      | available | $10.99    | —             | 54             | 30     | 6      | name.com                                                  |
 | bit.exchange         | resell    | —         | —             | 76             | 44     | 3      | Porkbun LLC                                               |
 | videos.exchange      | premium   | $123.75   | —             | 52             | 30     | 6      | name.com                                                  |
-| spaces.exchange      | available | $10.99    | —             | 54             | 30     | 6      | name.com                                                  |
+| inspiration.exchange | available | $10.99    | —             | 88             | 27     | 11     | name.com                                                  |
 | tickets.exchange     | resell    | —         | —             | 64             | 34     | 7      | Dynadot Inc                                               |
 | Jim.exchange         | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap                                                 |
 | KFC.exchange         | available | $49.98    | —             | 74             | 27     | 3      | namecheap                                                 |
 | spectra.exchange     | resell    | —         | —             | 62             | 34     | 7      | Sav.com, LLC - 22                                         |
-| products.exchange    | premium   | $123.75   | —             | 60             | 23     | 8      | name.com                                                  |
+| Places.exchange      | premium   | $138.60   | $138.60       | 74             | 23     | 6      | namecheap                                                 |
 | bees.exchange        | available | $10.99    | —             | 54             | 27     | 4      | name.com                                                  |
-| Places.exchange      | premium   | $138.60   | $138.60       | 74             | 22     | 6      | namecheap                                                 |
+| products.exchange    | premium   | $123.75   | —             | 60             | 23     | 8      | name.com                                                  |
 | sites.exchange       | available | $10.99    | —             | 53             | 26     | 5      | name.com                                                  |
 | flights.exchange     | premium   | $78.54    | $78.54        | 61             | 22     | 7      | namesilo                                                  |
 | schools.exchange     | available | $10.99    | —             | 72             | 24     | 7      | name.com                                                  |
-| restaurants.exchange | premium   | $82.50    | —             | 57             | 21     | 11     | name.com                                                  |
+| plans.exchange       | premium   | $82.50    | —             | 60             | 21     | 5      | name.com                                                  |
 | girls.exchange       | available | $10.99    | —             | 83             | 23     | 5      | name.com                                                  |
-| webs.exchange        | premium   | $118.80   | $118.80       | 56             | 21     | 4      | namesilo                                                  |
+| restaurants.exchange | premium   | $82.50    | —             | 57             | 21     | 11     | name.com                                                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-05-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
