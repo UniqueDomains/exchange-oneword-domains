@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .exchange one-word domains 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **11,412 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,412 domains · **Median ask:** $17.19 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,412 domains · **Median ask:** $17.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/exchange`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/exchange`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .EXCHANGE one-word dom
 
 ### Files
 
-- `exchange.csv` — public CSV extract (1,000 rows)
-- `exchange.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `exchange.csv`, public CSV extract (1,000 rows)
+- `exchange.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain               | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| -------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| shortcuts.exchange   | available | $10.99    | —             | 48             | 41     | 10     | name.com                                                  |
-| prompt.exchange      | resell    | —         | —             | 82             | 69     | 6      | Global Domains International, Inc. DBA DomainCostClub.com |
-| partners.exchange    | premium   | $82.50    | —             | 61             | 31     | 8      | name.com                                                  |
-| spaces.exchange      | available | $10.99    | —             | 54             | 30     | 6      | name.com                                                  |
-| bit.exchange         | resell    | —         | —             | 76             | 44     | 3      | Porkbun LLC                                               |
-| videos.exchange      | premium   | $123.75   | —             | 52             | 30     | 6      | name.com                                                  |
-| inspiration.exchange | available | $10.99    | —             | 88             | 27     | 11     | name.com                                                  |
-| tickets.exchange     | resell    | —         | —             | 64             | 34     | 7      | Dynadot Inc                                               |
-| Jim.exchange         | premium   | $92.40    | $92.40        | 78             | 28     | 3      | namecheap                                                 |
-| KFC.exchange         | available | $49.98    | —             | 74             | 27     | 3      | namecheap                                                 |
-| spectra.exchange     | resell    | —         | —             | 62             | 34     | 7      | Sav.com, LLC - 22                                         |
-| Places.exchange      | premium   | $138.60   | $138.60       | 74             | 23     | 6      | namecheap                                                 |
-| bees.exchange        | available | $10.99    | —             | 54             | 27     | 4      | name.com                                                  |
-| products.exchange    | premium   | $123.75   | —             | 60             | 23     | 8      | name.com                                                  |
-| sites.exchange       | available | $10.99    | —             | 53             | 26     | 5      | name.com                                                  |
-| flights.exchange     | premium   | $78.54    | $78.54        | 61             | 22     | 7      | namesilo                                                  |
-| schools.exchange     | available | $10.99    | —             | 72             | 24     | 7      | name.com                                                  |
-| plans.exchange       | premium   | $82.50    | —             | 60             | 21     | 5      | name.com                                                  |
-| girls.exchange       | available | $10.99    | —             | 83             | 23     | 5      | name.com                                                  |
-| restaurants.exchange | premium   | $82.50    | —             | 57             | 21     | 11     | name.com                                                  |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| ane.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap         |
+| learning.exchange | resell    | $82.50    | —             | high           | low    | 8      | Dynadot Inc       |
+| add.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| ive.exchange      | available | $10.99    | —             | medium         | low    | 3      | name.com          |
+| Ava.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| ana.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| nan.exchange      | available | $10.99    | —             | high           | low    | 3      | name.com          |
+| get.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| bad.exchange      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo          |
+| wet.exchange      | available | $10.99    | —             | high           | low    | 3      | name.com          |
+| sex.exchange      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
+| btw.exchange      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
+| xxv.exchange      | available | $10.99    | $50.99        | medium         | low    | 3      | name.com          |
+| blue.exchange     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| cow.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| babe.exchange     | available | $10.99    | —             | high           | low    | 4      | name.com          |
+| gene.exchange     | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 48 |
+| coy.exchange      | premium   | $82.50    | $82.50        | medium         | low    | 3      | name.com          |
+| cent.exchange     | available | $10.99    | —             | high           | low    | 4      | name.com          |
+| jump.exchange     | resell    | —         | —             | high           | low    | 4      | Dynadot Inc       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set focuses on one-word domains in the .exchange extension. The names range from direct commercial words like advantage.exchange and discourse.exchange to broader or more expressive terms like profound.exchange and righteous.exchange. For founders, the key question is whether the word makes the extension feel intentional and easy to remember. For investors, the main test is whether the word-extension pairing is commercially legible enough to support resale interest. The median ask is 17.19, so price alone will not separate the best options. Prioritize clean semantics, strong category fit, and low trademark friction when narrowing this selection.
+This selection covers 11,412 single-word .exchange domain names, from everyday terms like criteria and prompt to compound words like whitewater and honeymooning. With a median asking price near $17, this set spans budget-friendly options suited to both quick investor comparisons and founder shortlists. Names are single-word format across the board, keeping them easy to read, say, and remember.
 
-- Favor words that make natural sense with .exchange
-- Check if the word is generic or trademark-sensitive
-- Use price and renewal fit as a discipline filter
-- Prefer memorable spelling over obscure vocabulary
+- 11,412 one-word .exchange domain names in this set
+- Median asking price near $17 across the selection
+- Includes everyday words like criteria, prompt, and getup
+- Compare pricing and renewal costs before you choose
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
