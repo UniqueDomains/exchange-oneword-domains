@@ -1,10 +1,10 @@
-# Available .EXCHANGE One-Word Domains (16,808)
+# Available .EXCHANGE One-Word Domains (17,211)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-16%2C808%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-17%2C211%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .exchange one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **16,808 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **17,211 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 16,808 domains · **Median ask:** $12.46 · **High-demand under $2,500:** 2
+**Public extract:** 1,000 rows · **Live catalog:** 17,211 domains · **Median ask:** $12.31 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-08-21
+**Last updated:** 2026-08-22
 **Canonical page:** `https://unique.domains/domains/tld/exchange`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| okay.exchange     | available | $10.99    | $50.99        | high           | low    | 4      | name.com        |
-| feel.exchange     | available | $10.99    | —             | high           | low    | 4      | name.com        |
-| bad.exchange      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo        |
-| wrong.exchange    | available | $10.99    | —             | high           | low    | 5      | name.com        |
-| second.exchange   | available | $10.99    | $50.99        | high           | low    | 6      | name.com        |
-| abo.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap       |
-| learning.exchange | resell    | $82.50    | —             | high           | low    | 8      | Dynadot Inc     |
-| add.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| ane.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap       |
-| Ava.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
-| ana.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| azo.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap       |
-| get.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
-| ive.exchange      | available | $10.99    | —             | medium         | low    | 3      | name.com        |
-| sex.exchange      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
-| btw.exchange      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
-| lxv.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap       |
-| xxx.exchange      | resell    | —         | —             | low            | medium | 3      | Spaceship, Inc. |
-| cow.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| lxx.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap       |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| abo.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap         |
+| learning.exchange | resell    | $82.50    | —             | high           | low    | 8      | Dynadot Inc       |
+| add.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| ane.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap         |
+| Ava.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| ana.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| azo.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap         |
+| get.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| bad.exchange      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo          |
+| ive.exchange      | available | $10.99    | —             | medium         | low    | 3      | name.com          |
+| sex.exchange      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
+| btw.exchange      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
+| lxv.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap         |
+| xxx.exchange      | resell    | —         | —             | low            | medium | 3      | Spaceship, Inc.   |
+| cow.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| lxx.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap         |
+| blue.exchange     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| coy.exchange      | premium   | $82.50    | $82.50        | medium         | low    | 3      | name.com          |
+| nan.exchange      | available | $10.99    | —             | high           | low    | 3      | name.com          |
+| gene.exchange     | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 48 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 16,808 live domains                        |
+| 1,000-row public sample | 17,211 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 2 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-08-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-08-22. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
