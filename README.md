@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .exchange one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,216 domains · **Median ask:** $10.78 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-15
+**Last updated:** 2026-09-16
 **Canonical page:** `https://unique.domains/domains/tld/exchange`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| okay.exchange     | available | $10.99    | $50.99        | high           | low    | 4      | name.com        |
-| feel.exchange     | available | $10.99    | —             | high           | low    | 4      | name.com        |
-| bad.exchange      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo        |
-| abo.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap       |
-| learning.exchange | resell    | $82.50    | —             | high           | low    | 8      | Dynadot Inc     |
-| add.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| ane.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap       |
-| Ava.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
-| ana.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| azo.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap       |
-| get.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
-| ive.exchange      | available | $10.99    | —             | medium         | low    | 3      | name.com        |
-| sex.exchange      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
-| btw.exchange      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
-| lxv.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap       |
-| xxx.exchange      | resell    | —         | —             | low            | medium | 3      | Spaceship, Inc. |
-| cow.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
-| lxx.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap       |
-| blue.exchange     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc     |
-| coy.exchange      | premium   | $82.50    | $82.50        | medium         | low    | 3      | name.com        |
+| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
+| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
+| abo.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap         |
+| learning.exchange | resell    | $82.50    | —             | high           | low    | 8      | Dynadot Inc       |
+| add.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| ane.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap         |
+| Ava.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| ana.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| azo.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap         |
+| get.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| bad.exchange      | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo          |
+| ive.exchange      | available | $10.99    | —             | medium         | low    | 3      | name.com          |
+| sex.exchange      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc       |
+| btw.exchange      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo          |
+| lxv.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap         |
+| xxx.exchange      | resell    | —         | —             | low            | medium | 3      | Spaceship, Inc.   |
+| cow.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
+| lxx.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap         |
+| blue.exchange     | resell    | —         | —             | high           | medium | 4      | Dynadot Inc       |
+| coy.exchange      | premium   | $82.50    | $82.50        | medium         | low    | 3      | name.com          |
+| nan.exchange      | available | $10.99    | —             | high           | low    | 3      | name.com          |
+| gene.exchange     | resell    | —         | —             | medium         | low    | 4      | Sav.com, LLC - 48 |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -115,6 +115,7 @@ If this sample already feels useful, Unique Domains is where the exact search be
 - `registrar`, Registrar name when known.
 - `created_at`, Creation timestamp when known.
 - `expires_at`, Expiry timestamp when known.
+- `status_verified_at`, When status was last established against the registry. Null means never checked.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
@@ -132,6 +133,7 @@ See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 ## 🔄 Update policy
 
 - This repository is refreshed regularly from the same export pipeline used for public dataset repos.
+- The snapshot date above is when this file was written, not when each row was checked. Read `status_verified_at` for that: a name whose status was last established months ago is exported with its real date rather than the snapshot's.
 - The README count targets the live catalog count from the public landing response when available.
 - The CSV and JSON files contain the public extract only and may not match the full live catalog size.
 - Stable historical references should be published via GitHub Releases outside this repository snapshot.
@@ -142,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-09-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-09-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
