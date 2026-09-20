@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .exchange one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 25,827 domains · **Median ask:** $10.80 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/exchange`
 **Best for:** founders, investors, studios
 
@@ -65,10 +65,10 @@ print(df.head())
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
 | abo.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap         |
-| learning.exchange | resell    | $82.50    | —             | high           | low    | 8      | Dynadot Inc       |
+| learning.exchange | resell    | $82.50    | —             | medium         | low    | 8      | Dynadot Inc       |
 | add.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
 | ane.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap         |
-| Ava.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
+| ava.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
 | ana.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo          |
 | azo.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap         |
 | get.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc.   |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
