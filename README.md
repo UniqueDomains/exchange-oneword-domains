@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .exchange one-word domains 
 
 **Public extract:** 1,000 rows · **Live catalog:** 29,842 domains · **Median ask:** $10.84 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/exchange`
 **Best for:** founders, investors, studios
 
@@ -64,8 +64,6 @@ print(df.head())
 
 | domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar       |
 | ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------- |
-| feel.exchange     | available | $10.99    | —             | high           | low    | 4      | name.com        |
-| wrong.exchange    | available | $10.99    | —             | high           | low    | 5      | name.com        |
 | abo.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap       |
 | learning.exchange | resell    | $82.50    | —             | medium         | low    | 8      | Dynadot Inc     |
 | add.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
@@ -73,17 +71,19 @@ print(df.head())
 | ava.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
 | ana.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
 | azo.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap       |
-| get.exchange      | resell    | —         | —             | high           | medium | 3      | Spaceship, Inc. |
+| sex.exchange      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
 | bad.exchange      | premium   | $78.54    | $78.54        | medium         | low    | 3      | namesilo        |
 | ive.exchange      | available | $10.99    | —             | medium         | low    | 3      | name.com        |
-| sex.exchange      | resell    | —         | —             | high           | medium | 3      | Dynadot Inc     |
+| xxx.exchange      | resell    | —         | —             | low            | medium | 3      | Spaceship, Inc. |
 | btw.exchange      | premium   | $38.94    | $38.94        | high           | low    | 3      | namesilo        |
 | lxv.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap       |
-| xxx.exchange      | resell    | —         | —             | low            | medium | 3      | Spaceship, Inc. |
+| blue.exchange     | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc     |
 | cow.exchange      | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo        |
 | lxx.exchange      | available | $5.98     | $49.98        | low            | low    | 3      | namecheap       |
-| blue.exchange     | resell    | —         | —             | medium         | low    | 4      | Dynadot Inc     |
-| coy.exchange      | premium   | $82.50    | $82.50        | medium         | low    | 3      | name.com        |
+| bond.exchange     | resell    | —         | —             | high           | low    | 4      | Dynadot Inc     |
+| coy.exchange      | premium   | $85.80    | $85.80        | low            | low    | 3      | namecheap       |
+| nan.exchange      | available | $10.99    | —             | high           | low    | 3      | name.com        |
+| jump.exchange     | resell    | —         | —             | low            | low    | 4      | Dynadot Inc     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .EXCHANGE One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

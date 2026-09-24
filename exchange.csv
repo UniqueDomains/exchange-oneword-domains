@@ -2,7 +2,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 a278fb98-31df-4328-ab75-74293190619b,sit.exchange,premium,118.8,118.8,high,low,3,namesilo,,,
 eef5b324-f4bb-4294-9193-1ab93e21f370,sombuddy.exchange,available,10.99,,medium,low,8,name.com,,,
 6bf8b603-9025-434a-a581-eb9b6c8f79df,breastbone.exchange,available,10.99,,medium,low,11,name.com,,,
-ce6dd921-0e74-4956-b7eb-95806702a6ee,courteous.exchange,available,10.99,50.99,high,low,9,name.com,,,
+ce6dd921-0e74-4956-b7eb-95806702a6ee,courteous.exchange,available,12.99,38.99,medium,low,9,namesilo,,,24/09/2026 00:40
 4c7737b5-e84e-454b-ad9e-915f7e15c2f7,unitedstates.exchange,available,,,low,low,13,,,,
 24a9bf21-7624-463c-849c-30ad12d498a2,wordblind.exchange,available,5.98,49.98,low,low,10,namecheap,,,
 00efcc76-9c63-4e86-ac9c-9fe0a94f5e10,thanksto.exchange,available,10.99,,medium,low,9,name.com,,,
@@ -41,7 +41,7 @@ fa9a0a14-9589-40d1-ab6a-fca2b115793a,analytical.exchange,available,5.98,49.98,lo
 6e39156f-2fb4-4aba-8d37-b5edfc4cc9d6,ane.exchange,available,5.98,49.98,low,low,3,namecheap,,,
 5278da2c-2c16-4c4a-b282-024b8658ac8c,rest.exchange,premium,78.54,78.54,high,low,4,namesilo,,,
 814af88b-30b1-421c-a010-c1c5eddc77e4,bavarian.exchange,available,5.98,49.98,low,low,8,namecheap,,,09/08/2026 02:00
-623e2877-9663-4f8b-a632-8ea3c7f4ccd3,organise.exchange,available,10.99,50.99,high,low,8,name.com,,,
+623e2877-9663-4f8b-a632-8ea3c7f4ccd3,organise.exchange,available,12.99,38.99,medium,low,8,namesilo,,,23/09/2026 23:21
 b424f312-a5b9-4af1-a152-670cb6817e18,ribbon.exchange,available,10.99,,high,low,6,name.com,,,
 da1c5383-ef6c-40de-aada-26af36d19a1e,kookie.exchange,available,5.98,49.98,low,low,6,namecheap,,,06/08/2026 21:09
 fd07b740-0410-4192-9fea-baff75de3df6,bangup.exchange,available,5.98,49.98,low,low,7,namecheap,,,08/08/2026 12:10
@@ -60,7 +60,7 @@ b816e9d4-7428-4b58-8b38-d02c9fbd1827,awless.exchange,available,5.98,49.98,low,lo
 410bc145-99c8-48ff-b2f1-651bd12c4b0a,baffling.exchange,available,5.98,49.98,low,low,8,namecheap,,,08/08/2026 08:02
 9df7ca0d-a54e-43aa-8f7a-bb7ad3bee296,classroom.exchange,available,10.99,,high,low,9,name.com,,,
 d5e4424d-37cb-4bef-8f76-1680236adc5b,dying.exchange,available,10.99,50.99,high,low,5,name.com,,,
-4c466319-8e99-4110-96a6-0f33e33a14c9,idiotic.exchange,available,10.99,50.99,medium,low,7,name.com,,,
+4c466319-8e99-4110-96a6-0f33e33a14c9,idiotic.exchange,available,12.99,38.99,low,low,7,namesilo,,,24/09/2026 01:17
 c096cac8-de5f-474e-9a6e-02ed22dea33b,ninetytwo.exchange,available,5.98,49.98,low,low,10,namecheap,,,
 75ce892c-061a-4b52-995a-64594478c16e,idoubtit.exchange,available,10.99,,medium,low,10,name.com,,,
 816e3c6b-7d0c-4a49-89ab-e4139b3369db,barbiepink.exchange,available,10.99,,high,low,11,name.com,,,
@@ -86,10 +86,11 @@ e23e7305-8151-4fae-ab46-240cfd15999c,fanclub.exchange,available,10.99,,high,low,
 998093bd-1c9d-4ddb-b508-a81453e664c7,noseabout.exchange,available,10.99,,low,low,10,name.com,,,
 9b751678-755c-4ab8-b0b3-41c07d129803,hum.exchange,premium,118.8,118.8,high,low,3,namesilo,,,
 cca3001b-3242-4b4b-b22b-8ba3c090d577,fuckinghell.exchange,available,10.99,,medium,low,12,name.com,,,
+d1a56e82-8c6a-4bdf-9504-8feaf53d27fc,experiment.exchange,available,12.99,38.99,medium,low,10,namesilo,,,23/09/2026 08:49
 e4b961ad-22db-44c7-907b-6baae88c8177,anterior.exchange,available,5.98,49.98,low,low,8,namecheap,,,
 e3422629-e9b2-4250-a74a-448ed21a74b0,roiled.exchange,available,5.98,49.98,low,low,6,namecheap,,,
 b526f5ed-50d6-407f-aac4-ef94a9900e88,auditory.exchange,available,12.99,38.99,medium,low,8,namesilo,,,22/09/2026 12:39
-0241f749-6a06-4370-9b93-ce85d2c12bbd,cunning.exchange,available,10.99,50.99,medium,low,7,name.com,,,
+0241f749-6a06-4370-9b93-ce85d2c12bbd,cunning.exchange,available,12.99,38.99,low,low,7,namesilo,,,24/09/2026 01:26
 a39d7101-ad01-417d-83e7-447c216cabcb,mushy.exchange,available,5.98,49.98,low,low,5,namecheap,,,09/08/2026 00:58
 0c178f16-00dd-4b89-86cf-cba2fc7ed45a,eater.exchange,available,12.99,38.99,low,low,5,namesilo,,,19/09/2026 09:42
 165c0933-4418-4155-8d29-21f344575a6f,giant.exchange,available,10.99,50.99,high,low,5,name.com,,,
@@ -167,16 +168,15 @@ db1d57cd-7dac-466f-83fb-ce379d459926,psyche.exchange,available,10.99,,medium,low
 172214db-9980-40b9-8b12-81a04ff34a77,slip.exchange,available,10.99,,high,low,4,name.com,,,
 976f1686-f51b-4696-9dc3-0248cc22b576,freeway.exchange,available,10.99,,high,low,7,name.com,,,
 57d017c7-fff3-4772-9c54-ac583e7f1863,wellbehaved.exchange,available,10.99,,low,low,12,name.com,,,
-86290db1-55ec-4529-a88d-e5df5ca200b1,composite.exchange,available,10.99,50.99,high,low,9,name.com,,,
+86290db1-55ec-4529-a88d-e5df5ca200b1,composite.exchange,available,12.99,38.99,medium,low,9,namesilo,,,23/09/2026 17:39
 6c0ea964-bdc8-48c8-be43-1f95f2f28075,peeved.exchange,available,5.98,49.98,low,low,6,namecheap,,,
 28848fb6-8cb8-4e54-b3b0-5a4161e97929,inthewakeof.exchange,available,10.99,,medium,low,14,name.com,,,
 f5386c19-4f47-44a7-89e4-ff18887efba8,dateofdeath.exchange,available,10.99,,medium,low,13,name.com,,,
 87f50477-7c5b-47be-966c-25f5bf50d514,inthehand.exchange,available,10.99,,medium,low,11,name.com,,,
 a2e58417-1d6a-4227-ba84-01f060468fff,californiakilowatt.exchange,available,10.99,,high,low,19,name.com,,,
-2c16fadf-e0f7-4043-aa4d-7b0ad05c3ab4,get.exchange,resell,,,high,medium,3,"Spaceship, Inc.",04/11/2022 13:15,04/11/2026 13:15,
 8c9efad1-4a58-4c2b-9c6f-6668285b1acf,cabbage.exchange,available,10.99,,high,low,7,name.com,,,
 f268a473-942e-4aaf-9fa4-988f634a01f1,sloping.exchange,available,5.98,49.98,low,low,7,namecheap,,,08/09/2026 05:27
-a0908908-10ad-4cca-861a-800803af18ca,convincing.exchange,available,10.99,50.99,high,low,10,name.com,,,
+a0908908-10ad-4cca-861a-800803af18ca,convincing.exchange,available,12.99,38.99,medium,low,10,namesilo,,,23/09/2026 22:56
 2411cbe9-42b6-49e3-8372-3798d2e063b3,furious.exchange,available,5.98,49.98,low,low,7,namecheap,,,
 8647c83b-d9b0-4898-afa2-f9b8772ef063,givealight.exchange,available,10.99,,medium,low,12,name.com,,,
 6143b494-68bf-49d5-b705-9af0b32a0823,gaydog.exchange,available,10.99,,medium,low,7,name.com,,,
@@ -232,13 +232,14 @@ b042c050-994b-4bc1-a290-6163f2008bae,regarded.exchange,available,10.99,,medium,l
 b8d140c6-cc2f-454f-b6d4-7c2e482f00ae,playabout.exchange,available,10.99,,low,low,10,name.com,,,
 7259315a-a0ab-4ab1-a3db-f5a6ac1797f7,artistic.exchange,available,12.99,38.99,medium,low,8,namesilo,,,22/09/2026 09:09
 057a5cc8-4e1a-4439-85f4-c514ed89b700,christmascarol.exchange,available,10.99,,high,low,15,name.com,,,
+d6814758-d4ee-4e31-a941-161679213113,critical.exchange,available,12.99,38.99,low,low,8,namesilo,,,24/09/2026 02:02
 c25dad40-3513-4c14-ac04-f1350a510b28,whenever.exchange,available,10.99,,low,low,8,name.com,,,
 7a9af3bc-1d60-40af-9942-d98f9822a9a5,annoyance.exchange,available,,,medium,low,9,,,,
 eaa7332f-eab8-4b28-ab4a-d65747555b7c,thinkof.exchange,available,10.99,,medium,low,8,name.com,,,
 698d8513-7a9c-45ab-82c3-de97ee0f07cd,aboral.exchange,available,5.98,49.98,low,low,6,namecheap,,,
 bda44bd2-3f2e-4c03-9ccf-6a3af6a40842,atthispoint.exchange,available,10.99,,medium,low,13,name.com,,,
 d99826a7-313b-40b7-8df2-9e99ecffe095,ser.exchange,premium,46.2,46.2,high,low,3,namecheap,,,
-8d047cdb-e943-4df9-9ea3-34b2e0b26e96,concise.exchange,available,10.99,50.99,high,low,7,name.com,,,
+8d047cdb-e943-4df9-9ea3-34b2e0b26e96,concise.exchange,available,5.98,49.98,medium,low,7,namecheap,,,23/09/2026 19:03
 aa0946b0-e146-431a-a8eb-793d89e97dcd,perfervid.exchange,available,5.98,49.98,low,low,9,namecheap,,,06/08/2026 16:29
 216a3943-d85f-4f79-855c-d8a014880c8c,generalsurgery.exchange,available,10.99,,high,low,15,name.com,,,
 c50d469e-e85a-4cd5-8934-46f24d0cf7ba,whogoesthere.exchange,available,10.99,,low,low,14,name.com,,,
@@ -246,7 +247,7 @@ c50d469e-e85a-4cd5-8934-46f24d0cf7ba,whogoesthere.exchange,available,10.99,,low,
 d4075a07-59e5-4100-82a9-3930ff2ab639,generalinsurance.exchange,available,10.99,,high,low,17,name.com,,,
 29e5d57c-0cb3-4436-8157-54ca9c0d396e,pizzapie.exchange,available,10.99,,high,low,9,name.com,,,
 dcf7beab-03dd-4a93-8464-098a9a4fc578,underwear.exchange,available,10.99,,medium,low,9,name.com,,,
-ecf5ef29-0ab0-4319-9701-ed83f4f5af5c,strained.exchange,available,10.99,50.99,medium,low,8,name.com,,,
+ecf5ef29-0ab0-4319-9701-ed83f4f5af5c,strained.exchange,available,5.98,49.98,low,low,8,namecheap,,,23/09/2026 21:17
 a58a1402-a55e-4125-99e9-7ad6ca09a88d,exclusively.exchange,available,10.99,,medium,low,11,name.com,,,
 03be2193-8629-47c5-8652-66bf1eeb7cc2,alchemic.exchange,available,5.98,49.98,low,low,8,namecheap,,,
 2b397112-f36e-490a-b68e-6eca3def6954,algid.exchange,available,5.98,49.98,low,low,5,namecheap,,,
@@ -257,7 +258,7 @@ ee52dd09-f56d-4c1e-a911-9bb75b89a835,hackneyed.exchange,available,5.98,49.98,low
 ec596491-fc86-4d0a-a069-e91fc1f62043,ballistic.exchange,available,5.98,49.98,low,low,9,namecheap,,,08/08/2026 10:31
 27d2a33f-ef37-49b6-b6a1-f4c1dd7846b5,putoff.exchange,available,10.99,,medium,low,7,name.com,,,
 5360514c-d101-4f68-b8d4-66bcab97e326,sincere.exchange,available,10.99,50.99,high,low,7,name.com,,,
-4e6c7146-68e9-4bb2-bae2-b2f463d885d3,worn.exchange,available,10.99,,medium,low,4,name.com,,,
+4e6c7146-68e9-4bb2-bae2-b2f463d885d3,worn.exchange,available,10.99,50.99,low,low,4,name.com,,,23/09/2026 12:58
 88ff642c-87c8-4a1c-8a54-35c3c3bf94f5,rejoin.exchange,available,10.99,,high,low,6,name.com,,,
 31cf1074-135b-4d02-8c5c-bf14c3a4e168,amphibian.exchange,available,5.98,49.98,low,low,9,namecheap,,,
 5cbaf5b7-16d0-42fa-afde-86a26837f6d6,toilet.exchange,available,10.99,,high,low,6,name.com,,,
@@ -334,7 +335,7 @@ fd6463f0-864a-4950-82bd-98c1871696b8,exhale.exchange,available,10.99,,high,low,6
 a06e2487-75d9-4850-ac9c-b57dad6e1ff5,accentual.exchange,available,5.98,49.98,low,low,9,namecheap,,,
 88afa4a0-f9ae-40a4-992d-dbc842292eb4,generalpractice.exchange,available,10.99,,high,low,16,name.com,,,
 5655239a-a923-4233-b0e9-dcc3d227b2c9,ogdoad.exchange,available,5.98,49.98,low,low,6,namecheap,,,
-8829a3b9-8c0a-4b5d-adf9-a9d899b677f4,cheesy.exchange,available,10.99,,medium,low,6,name.com,,,
+8829a3b9-8c0a-4b5d-adf9-a9d899b677f4,cheesy.exchange,available,12.99,38.99,low,low,6,namesilo,,,23/09/2026 11:13
 0606656c-6956-446e-bd4e-5cb924338e17,allelic.exchange,available,5.98,49.98,low,low,7,namecheap,,,
 979f2939-59ae-4ac6-9747-5fc23d2ed8a0,situated.exchange,available,10.99,,medium,low,8,name.com,,,
 4a52917b-bebe-4a04-8cfc-6bd52a5c7fd0,dustyrose.exchange,available,10.99,,low,low,10,name.com,,,
@@ -346,7 +347,7 @@ dcb86a5e-05de-430e-b87d-c58ca0bfa474,onyourmark.exchange,available,10.99,,high,l
 7982a290-eb55-49bc-8cea-3c049221dad3,taxswap.exchange,available,10.99,,medium,low,8,name.com,,,
 bb9197b4-913a-43c6-80df-cb1767cdfa65,antiacid.exchange,available,12.99,38.99,medium,low,8,namesilo,,,22/09/2026 05:47
 eb237b4b-884c-4013-8a2a-b94f9b41b65e,indianajones.exchange,available,10.99,,high,low,13,name.com,,,
-856f87e1-7177-4b04-801c-1a076961a530,bronze.exchange,available,10.99,,medium,low,6,name.com,,,
+856f87e1-7177-4b04-801c-1a076961a530,bronze.exchange,available,12.99,38.99,low,low,6,namesilo,,,23/09/2026 09:58
 7c2fc3b4-cb16-477b-af41-9e97e1afb9d8,sip.exchange,premium,118.8,118.8,medium,low,3,namesilo,,,
 a9757fa5-c5af-4d4f-9375-97e8e96b5fdd,kit.exchange,premium,78.54,78.54,medium,low,3,namesilo,,,
 edfecc2e-e03e-48fc-8abe-e64e558eb06f,set.exchange,premium,85.8,85.8,medium,low,3,namecheap,,,22/09/2026 19:35
@@ -361,10 +362,10 @@ dea54109-d57e-4b8a-8b9f-4645d3077a1f,eachandevery.exchange,available,10.99,,medi
 6df263fb-9cc9-45c2-ab1e-8d31cdc519cd,racist.exchange,available,5.98,49.98,low,low,6,namecheap,,,
 abbe96c8-aada-4c62-9ff8-b56bebeae697,beady.exchange,available,5.98,49.98,low,low,5,namecheap,,,09/08/2026 03:23
 b8bb2905-a9b6-4bc0-ba14-fb0044718014,apiarian.exchange,available,5.98,49.98,low,low,8,namecheap,,,05/08/2026 23:53
-9966d037-4667-47f1-b569-832741d0858d,bright.exchange,resell,,,high,low,6,"Sav.com, LLC - 31",25/01/2026 15:15,25/01/2027 15:15,
+9966d037-4667-47f1-b569-832741d0858d,bright.exchange,resell,,,medium,low,6,"Sav.com, LLC - 31",25/01/2026 15:15,25/01/2027 15:15,23/09/2026 09:27
 f8914bfa-82eb-48a4-aecd-54922a10c9e5,vandalism.exchange,available,10.99,,medium,low,9,name.com,,,
 f79ef5ab-90a4-4fea-af39-3043f0b4b837,whitesatin.exchange,available,10.99,,low,low,11,name.com,,,
-6e6ed426-18ec-44d2-baba-22dab5221177,attack.exchange,available,12.99,38.99,medium,low,6,namesilo,,,19/09/2026 14:18
+6e6ed426-18ec-44d2-baba-22dab5221177,attack.exchange,available,12.99,38.99,medium,low,6,namesilo,,,23/09/2026 17:14
 df4a6fb1-a813-4230-b1eb-2efe672ae55c,inc.exchange,premium,118.8,118.8,medium,low,3,namesilo,,,
 59ab7693-69f6-45c6-bda6-7baae30feda1,atsea.exchange,available,5.98,49.98,low,low,6,namecheap,,,07/08/2026 12:16
 29293ff1-ca14-4f51-a7b8-a73ac95cd5d2,fullgrown.exchange,available,5.98,49.98,low,low,10,namecheap,,,
@@ -375,7 +376,7 @@ ff3bce67-b528-4880-be6c-dd833690a7f2,fauna.exchange,available,5.98,49.98,low,low
 dd354f7f-94d3-4c6b-8f64-b5848ed892f1,enthusiasm.exchange,available,10.99,,high,low,10,name.com,,,
 22cc00e5-b9d5-404e-a8aa-85465ac8f7f2,naturally.exchange,available,10.99,,medium,low,9,name.com,,,
 0d3b83e0-ff28-46d0-8b5d-05e96506ff6d,bad.exchange,premium,78.54,78.54,medium,low,3,namesilo,,,22/09/2026 16:05
-642e32b3-0c4a-478a-a930-6c7da9468b34,conclusion.exchange,available,10.99,,high,low,10,name.com,,,
+642e32b3-0c4a-478a-a930-6c7da9468b34,conclusion.exchange,available,12.99,38.99,medium,low,10,namesilo,,,23/09/2026 14:51
 871c46ca-cb5a-45d0-9729-6d4405a8e45b,replace.exchange,available,10.99,,high,low,7,name.com,,,
 ba539172-886c-4a72-b317-067c0c852088,leave.exchange,available,10.99,,high,low,5,name.com,,,
 5ca104b4-db8e-4985-bd83-2f64d11d010d,sequent.exchange,available,5.98,49.98,low,low,7,namecheap,,,
@@ -439,7 +440,6 @@ d1d2d0ba-b005-4b62-821b-dd957a857dbd,gates.exchange,available,10.99,,high,low,5,
 b9f226ab-e27a-4408-8850-c924c9dc98fb,deadline.exchange,available,10.99,,high,low,8,name.com,,,
 d4f572b7-394f-4811-b5f2-ae787ab8f220,arborical.exchange,available,5.98,49.98,low,low,9,namecheap,,,06/08/2026 13:13
 7a93f333-8b3a-4f93-875d-4d4418c7e312,relatively.exchange,available,10.99,,medium,low,10,name.com,,,
-9abd733f-9d4f-4e57-96b0-f024dff5267a,habitat.exchange,available,,,high,low,7,,,,
 8475634c-2345-4089-bb5a-8a8a631a3a0d,simpson.exchange,available,10.99,,high,low,7,name.com,,,
 a69df226-b9f0-4615-a7fb-1930660cdc20,standbehind.exchange,available,10.99,,low,low,12,name.com,,,
 75459bcb-335c-440d-aa44-6e168b76f055,loopy.exchange,available,5.98,49.98,low,low,5,namecheap,,,06/08/2026 21:22
@@ -448,7 +448,7 @@ ba58e0ae-9818-4626-bf07-f545c11c9feb,comeclose.exchange,available,5.98,49.98,low
 60ccea12-cf18-4270-b681-952b001cf2f8,areal.exchange,available,5.98,49.98,low,low,5,namecheap,,,06/08/2026 17:21
 970be4f1-2357-43ee-8330-304fd81668df,sharp.exchange,resell,,,medium,low,5,"Sav.com, LLC - 10",03/05/2026 15:15,03/05/2027 15:15,21/09/2026 16:42
 177f53bc-1b1e-4d95-9b75-e62d0440f3b5,try.exchange,premium,42.9,42.9,high,low,3,namecheap,,,
-3097d61c-da19-44c9-8c4c-38166d5a0085,definite.exchange,available,10.99,50.99,high,low,8,name.com,,,
+3097d61c-da19-44c9-8c4c-38166d5a0085,definite.exchange,available,12.99,38.99,medium,low,8,namesilo,,,24/09/2026 05:06
 aeb70f05-97a2-433b-8d5f-0fdd36204fe1,speakto.exchange,available,10.99,,medium,low,8,name.com,,,
 6fd2ae63-9bba-4fd4-a954-9225e43c5d69,know.exchange,available,,,high,low,4,,,,
 c3873d7c-626d-428d-920f-45af0e135a47,mothafucka.exchange,available,10.99,,medium,low,10,name.com,,,
@@ -459,7 +459,7 @@ f2a8367a-f828-40be-b4b6-109834115c5c,lxxxvi.exchange,available,5.98,49.98,low,lo
 51713357-d3de-4f2b-be04-2d1c22e4dc1a,sweetandsour.exchange,available,10.99,,high,low,14,name.com,,,
 4a4eab84-cb84-4958-abb5-51cfc1f6a5d1,alveolate.exchange,available,5.98,49.98,low,low,9,namecheap,,,
 e5c71446-f569-43a5-9882-9e802ab2712f,empty.exchange,available,10.99,,high,low,5,name.com,,,
-07152e16-139c-425a-b7fa-4decbe3fe676,learned.exchange,available,10.99,50.99,high,low,7,name.com,,,
+07152e16-139c-425a-b7fa-4decbe3fe676,learned.exchange,available,5.98,49.98,low,low,7,namecheap,,,23/09/2026 19:31
 8ab0bf7b-36e7-488c-b241-e6f62840b5b9,stubborn.exchange,available,10.99,,high,low,8,name.com,,,
 a2d90f3e-5db8-49f8-a441-654588242113,beardless.exchange,available,5.98,49.98,low,low,9,namecheap,,,09/08/2026 04:43
 d265c95b-7235-4757-8270-ad26e30e94bd,informing.exchange,available,10.99,,medium,low,9,name.com,,,
@@ -499,7 +499,7 @@ a0f9ab0a-27bf-4bf3-b321-6b448966def8,drone.exchange,resell,,,high,medium,5,"Spac
 1a96948f-5a66-4a8a-a3fe-31575f6e9c92,moderately.exchange,available,10.99,,medium,low,10,name.com,,,
 87710da6-eff9-4c4e-bafa-39c891f246d3,manythanks.exchange,available,10.99,,high,low,11,name.com,,,
 79cadffb-73a6-4e49-a3b8-e010650f79fa,commend.exchange,available,10.99,,high,low,7,name.com,,,
-985840f9-6886-4b4f-8432-59d63109101e,advertising.exchange,premium,78.54,78.54,medium,low,11,namesilo,,,19/09/2026 09:14
+985840f9-6886-4b4f-8432-59d63109101e,advertising.exchange,premium,78.54,78.54,medium,low,11,namesilo,,,23/09/2026 07:26
 f10a5f02-d392-4a86-bae6-7a1a3a3a24cf,trousers.exchange,available,10.99,,medium,low,8,name.com,,,
 b182f0b1-b322-41ac-be98-bf54fcd89b2b,philanthropic.exchange,available,10.99,,high,low,13,name.com,,,
 b140a28a-9598-4c85-8fc3-c2ac983843ad,asaconsequenceof.exchange,available,10.99,,medium,low,19,name.com,,,
@@ -596,13 +596,13 @@ d2cc53df-6222-43f0-b2d3-dd9cb3f0f33e,grandma.exchange,available,10.99,,high,low,
 fe50fb8f-dc16-440f-ab9c-8807bd2c6695,younger.exchange,available,10.99,,high,low,7,name.com,,,
 e6a18a6c-5fea-4673-94ef-f932c5bb8a45,godutch.exchange,available,10.99,,medium,low,8,name.com,,,
 d3473875-e01d-421d-953f-32641897997a,abbatial.exchange,available,5.98,49.98,low,low,8,namecheap,,,
-41bec578-7a4f-46c0-a653-1a3fe1783c63,coy.exchange,premium,82.5,82.5,medium,low,3,name.com,,,
+41bec578-7a4f-46c0-a653-1a3fe1783c63,coy.exchange,premium,85.8,85.8,low,low,3,namecheap,,,24/09/2026 01:10
 e9ac3c85-d1c2-41b5-8c94-7236f546c406,abactinal.exchange,available,5.98,49.98,low,low,9,namecheap,,,
 105c18a3-22cf-4a6b-a0b6-97eecc1c43ee,putaway.exchange,available,10.99,,medium,low,8,name.com,,,
 3579b763-3c1b-4560-9c6d-e91a5dd70b93,flexing.exchange,available,10.99,,high,low,7,name.com,,,
 0c244605-dad5-4f41-8841-d475dcbe28f7,wages.exchange,available,10.99,,high,low,5,name.com,,,
 a6d91ecb-89ed-44e8-bef9-25ac8e882ace,zesty.exchange,available,5.98,49.98,low,low,5,namecheap,,,08/08/2026 20:02
-86048138-dd69-4310-9269-f0ed7af0e326,distribution.exchange,premium,118.8,118.8,low,low,12,namesilo,,,19/09/2026 09:11
+86048138-dd69-4310-9269-f0ed7af0e326,distribution.exchange,premium,118.8,118.8,low,low,12,namesilo,,,23/09/2026 07:20
 efca850b-7dd3-4482-a65b-648b62131353,ascensive.exchange,available,5.98,49.98,low,low,9,namecheap,,,07/08/2026 00:46
 eeef2b1a-958e-4d0a-ac49-de020addf6c3,paunchy.exchange,available,5.98,49.98,low,low,7,namecheap,,,
 73b9d9e5-2547-40c7-abe6-05774cdb60e5,someother.exchange,available,5.98,49.98,low,low,10,namecheap,,,
@@ -618,7 +618,7 @@ ca0717a8-80b6-43da-b41a-8dc981b62bb8,arthritic.exchange,available,5.98,49.98,low
 4af0045f-ed1a-4471-bfd1-4a346f2f9024,saddening.exchange,available,10.99,,high,low,9,name.com,,,
 d3630d98-85d6-46a8-bf1a-13bb1bcbd2b6,court.exchange,premium,82.5,,medium,low,5,name.com,,,
 50f0db2b-06dd-47da-96ef-cf5cc4ffb365,basidial.exchange,available,5.98,49.98,low,low,8,namecheap,,,08/08/2026 22:06
-39b9aad4-f366-42a6-9110-92ed24987b9b,colour.exchange,available,10.99,,high,low,6,name.com,,,
+39b9aad4-f366-42a6-9110-92ed24987b9b,colour.exchange,available,12.99,38.99,medium,low,6,namesilo,,,23/09/2026 15:08
 66835fff-dd01-4898-a084-e6d6055bfc3b,eddie.exchange,available,10.99,,high,low,5,name.com,,,
 5d284025-e6b5-469e-aceb-4d93022d41fa,azonic.exchange,available,5.98,49.98,low,low,6,namecheap,,,08/08/2026 02:32
 bb61d8b1-da19-4ff1-a5a4-f79cfc0009dd,iwantmymoneyback.exchange,available,10.99,,medium,low,20,name.com,,,
@@ -631,7 +631,6 @@ cbd5564b-ca16-4184-9f81-921bebbb8392,modem.exchange,available,10.99,,high,low,5,
 4c7637d4-712c-43cb-bb89-85bade7179e7,eyeofthestorm.exchange,available,10.99,,medium,low,16,name.com,,,
 5b9552d8-5625-42c0-a586-c6a1610d3f97,travelled.exchange,available,10.99,,medium,low,9,name.com,,,
 9916b46d-ee68-4d89-9dbd-e4cbbcd0fa2c,aflare.exchange,available,5.98,49.98,low,low,6,namecheap,,,
-2157cd28-d160-46b1-8ba5-8ee030331b78,compact.exchange,available,10.99,50.99,high,low,7,name.com,,,
 b18591d5-b907-437b-bc28-91a2dd480131,justnow.exchange,available,10.99,,medium,low,8,name.com,,,
 fda4479e-0088-468e-8908-98169c770cfd,blinking.exchange,available,12.99,38.99,medium,low,8,namesilo,,,22/09/2026 21:58
 f0f1f4fc-a1e7-451d-8ca2-df43556ac809,drawup.exchange,available,10.99,,high,low,7,name.com,,,
@@ -649,7 +648,7 @@ bd0cf811-41a8-46b0-984f-e02f245ff844,risen.exchange,available,10.99,,medium,low,
 5b5728ca-7ce4-4ce6-893e-dce7582f0bba,humanlike.exchange,available,5.98,49.98,low,low,9,namecheap,,,
 a1194a10-c302-418a-82ec-433a12f7857d,stairs.exchange,available,10.99,,medium,low,6,name.com,,,
 d5fee1ca-892e-4827-89b0-4b1d32182284,chinesenoodles.exchange,available,10.99,,medium,low,15,name.com,,,
-590f704a-de3b-4c66-8e58-61d6edf77cf3,sweet.exchange,resell,,,low,low,5,Dynadot Inc,09/07/2026 17:00,09/07/2027 17:00,19/09/2026 07:35
+590f704a-de3b-4c66-8e58-61d6edf77cf3,sweet.exchange,resell,,,low,low,5,Dynadot Inc,09/07/2026 17:00,09/07/2027 17:00,23/09/2026 06:03
 9e3fdcdc-d4ed-4d38-abea-d2ba31730ded,easymoney.exchange,available,10.99,,medium,low,10,name.com,,,
 242e1105-6f32-4093-96a8-2fc432fee79a,marriage.exchange,premium,118.8,118.8,high,low,8,namesilo,,,
 913115c6-d745-4177-a453-b25cbd402e06,anticipant.exchange,available,5.98,49.98,low,low,10,namecheap,,,
@@ -705,7 +704,7 @@ a40e8fa6-608b-4f1e-ba1e-ddfb60cff37c,aseptic.exchange,available,5.98,49.98,low,l
 02a50ba1-3aac-4930-a2e1-4fbbb576afa1,eighteen.exchange,available,12.99,38.99,medium,low,8,namesilo,,,21/09/2026 11:58
 166ece91-4fc3-46e8-8800-589659759e7f,devise.exchange,available,10.99,,high,low,6,name.com,,,
 698635af-016c-4112-a39f-b03edcd28d7e,involving.exchange,available,10.99,,medium,low,9,name.com,,,
-b3ce485e-7dfa-4591-afbb-42c7be28189f,contracted.exchange,available,10.99,50.99,medium,low,10,name.com,,,
+b3ce485e-7dfa-4591-afbb-42c7be28189f,contracted.exchange,available,12.99,38.99,low,low,10,namesilo,,,23/09/2026 22:26
 4d670095-efef-44a8-9726-5548013c1e86,curiously.exchange,available,10.99,,medium,low,9,name.com,,,
 8f8b403e-4100-41be-a967-dcc41516b0e5,musiccentre.exchange,available,10.99,,high,low,12,name.com,,,
 8ece9356-975f-4d84-959e-3c02b4f26e5d,annoying.exchange,available,12.99,38.99,low,low,8,namesilo,,,22/09/2026 05:19
@@ -713,7 +712,7 @@ c63fda90-5726-4fa2-b16a-99e48363e538,comeout.exchange,available,10.99,,high,low,
 479f4db7-0919-4f49-ad0f-6b64576502a9,restaurant.exchange,premium,78.54,78.54,high,low,10,namesilo,,,
 d2e4d0f8-6544-474e-8298-830a3247f9b7,advice.exchange,available,10.99,,high,low,6,name.com,,,
 bca5e051-5e94-43f8-b546-dd147a08906a,setfree.exchange,available,10.99,,medium,low,8,name.com,,,
-6322848a-48da-4c53-a2b6-23ec4e68dfa0,changing.exchange,available,10.99,,medium,low,8,name.com,,,
+6322848a-48da-4c53-a2b6-23ec4e68dfa0,changing.exchange,available,5.98,49.98,low,low,8,namecheap,,,23/09/2026 13:46
 4078f0a6-486f-4b9b-a761-3846ee01fb9a,bashful.exchange,available,5.98,49.98,low,low,7,namecheap,,,08/08/2026 22:01
 5e5c56e1-c560-4842-850e-9e9dc32309b3,profession.exchange,available,10.99,,high,low,10,name.com,,,
 4bc1ccba-bb54-435c-903e-c4e203996d4d,howaboutno.exchange,available,10.99,,medium,low,12,name.com,,,
@@ -783,7 +782,7 @@ a57028f6-cf29-413c-a975-b9cd58eb36b7,buttin.exchange,available,5.98,49.98,low,lo
 241df61d-5244-492c-b1b3-53827eb42dba,buying.exchange,available,10.99,,high,low,6,name.com,,,
 3ffd9e29-86db-4cdd-a3e6-15229b052545,asocial.exchange,available,5.98,49.98,low,low,7,namecheap,,,07/08/2026 04:36
 d99b2092-f2a9-420f-bea9-ce967fc3a174,westminster.exchange,available,10.99,,medium,low,11,name.com,,,
-3890e89d-1484-4f73-9b7a-575e0695a5e8,contained.exchange,available,10.99,50.99,medium,low,9,name.com,,,
+3890e89d-1484-4f73-9b7a-575e0695a5e8,contained.exchange,available,12.99,38.99,low,low,9,namesilo,,,23/09/2026 21:42
 26c0349f-4a3d-466b-baab-ea1d2e7cd17e,fruity.exchange,available,5.98,49.98,medium,low,6,namecheap,,,06/08/2026 21:00
 f31e9eb5-edff-43cd-8bd1-ebf4c3d3fd7c,blackfriday.exchange,premium,78.54,78.54,high,low,12,namesilo,,,
 1b0c2906-f057-4216-9ea3-7762c69aabd9,spanishrice.exchange,available,10.99,,low,low,12,name.com,,,
@@ -807,7 +806,7 @@ bb8529ae-1e2e-40b6-b56c-9a88f8b64f3b,rightatrium.exchange,available,10.99,,low,l
 eded770e-227d-4da7-9c8d-195e2f8d6be9,oneyearold.exchange,available,10.99,,high,low,12,name.com,,,
 fb990450-4fd9-40eb-8289-689bb157e4e2,dishonour.exchange,available,10.99,,high,low,9,name.com,,,
 ed269b43-b3db-46cb-aa4d-24473d4b3896,promise.exchange,available,10.99,,high,low,7,name.com,,,
-2b592153-e80c-4555-ba4f-0e6ee8bec6e3,broadband.exchange,premium,78.54,78.54,high,low,9,namesilo,,,
+2b592153-e80c-4555-ba4f-0e6ee8bec6e3,broadband.exchange,premium,78.54,78.54,medium,low,9,namesilo,,,23/09/2026 09:40
 1380735b-3727-4d61-8b2b-93c9fafca15c,orchestra.exchange,available,10.99,,high,low,9,name.com,,,
 437d0ed1-7b5b-4636-9138-847998b55a33,taipei.exchange,premium,242,242,high,low,6,namesilo,,,
 1260c8cc-54c4-4e4b-ac90-05ffd012b044,guys.exchange,available,10.99,,medium,low,4,name.com,,,
@@ -899,11 +898,10 @@ c1c263aa-339a-4d6a-9404-2579d639a775,aground.exchange,available,5.98,49.98,low,l
 a0cd6fe1-882a-4385-a15f-ae43d34b70fb,attrited.exchange,available,5.98,49.98,low,low,8,namecheap,,,07/08/2026 16:02
 dc014d61-3d2c-4dca-a223-e5c263b01654,suitable.exchange,available,10.99,,medium,low,8,name.com,,,
 e88a771c-7c68-4f6e-8803-b50a7cacb188,bluetooth.exchange,available,10.99,,high,low,9,name.com,,,
-2afb5fc6-c032-4a61-ba90-d5bf7cb98b36,communist.exchange,available,10.99,50.99,high,low,9,name.com,,,
+2afb5fc6-c032-4a61-ba90-d5bf7cb98b36,communist.exchange,available,12.99,38.99,low,low,9,namesilo,,,23/09/2026 16:14
 6274046a-3fbd-4af0-b9d0-5b4abeb00b4f,arminian.exchange,available,5.98,49.98,low,low,8,namecheap,,,06/08/2026 19:49
 af256a3f-4b6d-4473-bd0c-68a77e53d7c5,twothousand.exchange,available,10.99,,low,low,12,name.com,,,
 6f136807-bb2e-4cd6-99f1-79f5812e3057,plasticsurgeon.exchange,available,10.99,,high,low,15,name.com,,,
-350a0fec-2c87-4b60-b969-2eca6aac3742,pack.exchange,available,10.99,50.99,high,low,4,name.com,,,
 2794f48f-5726-4c45-86a3-dfbf8d36296c,mediocre.exchange,available,10.99,,high,low,8,name.com,,,
 6a12ae50-c77b-49a6-b077-671851dd46c1,condense.exchange,available,10.99,,high,low,8,name.com,,,
 06744528-bde4-4fd3-ae79-54b2d86e6bd6,graphics.exchange,premium,78.54,78.54,high,low,8,namesilo,,,
@@ -927,7 +925,7 @@ da5a85b1-21e2-4997-8234-b2534b6459ac,thug.exchange,available,10.99,,high,low,4,n
 7941352b-fdd8-4312-95bf-64c6de484ec5,consent.exchange,available,5.98,49.98,medium,low,7,namecheap,,,08/09/2026 13:17
 c6811bcd-85b3-46f5-80d6-a7c756e37f50,borderline.exchange,available,5.98,49.98,low,low,10,namecheap,,,23/09/2026 00:01
 177b3878-2295-45e0-ab0a-93dde9cdf886,dateback.exchange,available,10.99,,high,low,9,name.com,,,
-af6e193f-d049-4edc-9def-f59252cc9cb6,communal.exchange,available,10.99,,medium,low,8,name.com,,,
+af6e193f-d049-4edc-9def-f59252cc9cb6,communal.exchange,available,12.99,38.99,low,low,8,namesilo,,,23/09/2026 16:10
 7ca61253-cd47-4ae2-a590-8735160b6872,applaud.exchange,available,10.99,,high,low,7,name.com,,,
 536c96e5-56f0-4cc7-bde7-0fc0633e6868,tasking.exchange,available,10.99,,medium,low,7,name.com,,,
 a8fa6b0e-0cc8-4784-a188-8f8ad27b39eb,screwloose.exchange,available,10.99,,low,low,11,name.com,,,
@@ -999,3 +997,5 @@ c32da045-8016-4bc7-8ea6-8f1a971ac8a6,tillable.exchange,available,5.98,49.98,low,
 e47e5f62-3d38-4c5a-b2c3-ae4a8a7f520d,checkout.exchange,available,10.99,,medium,low,9,name.com,,,
 1b63b9dd-2a40-42ce-850a-af5c84a8e9b4,bigmac.exchange,available,10.99,,high,low,7,name.com,,,
 6e84e34a-3793-4f48-8314-175d8a9e1791,complicate.exchange,available,5.98,49.98,low,low,10,namecheap,,,08/09/2026 14:25
+e3fcae99-1b9a-48e6-90df-cc440ffff6a1,unconvinced.exchange,available,10.99,,medium,low,11,name.com,,,
+ef174439-f447-459a-9e17-e762596e47cd,saturday.exchange,available,10.99,,high,low,8,name.com,,,
